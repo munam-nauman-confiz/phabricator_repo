@@ -1,3 +1,6 @@
-Hello this is Line 1.
+Hello this is Line 1 for Phabricator Practice
 /* BR1 */
-Hello this is Line3.
+Hello this is Line3 for Phabricator Practice
+
+/* BR2 */
+Hello this is Line6 for Phabricator Practice
